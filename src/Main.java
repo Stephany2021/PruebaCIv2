@@ -3,8 +3,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("A commit has been made");
-
+        System.out.printf("A commit has been " + "made");
+        System.out.println("Hi Stephany");
 
     }
 }
